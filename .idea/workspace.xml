@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e79c0eb-d76f-446c-912d-4c4cf3bbc32f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Academic Research Center" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gKKjQiVgqif8jTEEyxwRmILWJ7" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PROGRAMMING\An Aerospace Company (AAC)\templates" />
+      <recent name="E:\PROGRAMMING\An Aerospace Company (AAC)\templates\Aircraft_Basic_Information_Entry" />
+      <recent name="E:\PROGRAMMING\An Aerospace Company (AAC)\static\uploads" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PROGRAMMING\An Aerospace Company (AAC)\templates" />
+      <recent name="E:\Python\Academic Research Center" />
+      <recent name="E:\Python\Academic Research Center\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.Academic Research Center">
+    <configuration name="admin_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Academic Research Center" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Academic Research Center" type="Python.FlaskServer">
+      <option name="flaskDebug" value="true" />
+      <module name="Academic Research Center" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\David Kosgei\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Academic Research Center" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Academic Research Center" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Python.admin_user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.admin_user" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e79c0eb-d76f-446c-912d-4c4cf3bbc32f" name="Default Changelist" comment="" />
+      <created>1597857978376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597857978376</updated>
+      <workItem from="1597857979689" duration="363000" />
+      <workItem from="1597858396089" duration="742000" />
+      <workItem from="1597859324360" duration="254000" />
+      <workItem from="1597859617126" duration="16000" />
+      <workItem from="1597859757666" duration="6834000" />
+      <workItem from="1597913105712" duration="8000" />
+      <workItem from="1598606386517" duration="15890000" />
+      <workItem from="1598622802545" duration="14053000" />
+      <workItem from="1598685918446" duration="3329000" />
+      <workItem from="1598692193005" duration="11240000" />
+      <workItem from="1598739839624" duration="402000" />
+      <workItem from="1600343036773" duration="16000" />
+      <workItem from="1600343079181" duration="88000" />
+      <workItem from="1600343301591" duration="636000" />
+      <workItem from="1600343990419" duration="576000" />
+      <workItem from="1600344592922" duration="227000" />
+      <workItem from="1600344853832" duration="3245000" />
+      <workItem from="1600354056109" duration="1768000" />
+      <workItem from="1600357613817" duration="5533000" />
+      <workItem from="1600366202210" duration="4472000" />
+      <workItem from="1600384814416" duration="3561000" />
+      <workItem from="1600414085727" duration="5145000" />
+      <workItem from="1600419377432" duration="1821000" />
+      <workItem from="1600426040652" duration="7461000" />
+      <workItem from="1600456482428" duration="2933000" />
+      <workItem from="1600794075795" duration="1086000" />
+      <workItem from="1600972668248" duration="610000" />
+      <workItem from="1601050352163" duration="1040000" />
+      <workItem from="1601052651884" duration="9767000" />
+      <workItem from="1601070590626" duration="1707000" />
+      <workItem from="1601099610150" duration="16536000" />
+      <workItem from="1601208309094" duration="796000" />
+      <workItem from="1601492087854" duration="673000" />
+      <workItem from="1603565020967" duration="735000" />
+      <workItem from="1604852703876" duration="3882000" />
+      <workItem from="1604939263381" duration="3037000" />
+      <workItem from="1604995060591" duration="370000" />
+      <workItem from="1605001106065" duration="2170000" />
+      <workItem from="1605097305359" duration="1208000" />
+      <workItem from="1620579966628" duration="682000" />
+      <workItem from="1620580761284" duration="4113000" />
+      <workItem from="1620644195273" duration="1262000" />
+      <workItem from="1620650249336" duration="11514000" />
+      <workItem from="1620673186775" duration="2305000" />
+      <workItem from="1620676382347" duration="3779000" />
+      <workItem from="1620732678497" duration="5414000" />
+      <workItem from="1625682451135" duration="755000" />
+      <workItem from="1625840056589" duration="3364000" />
+      <workItem from="1625843587259" duration="18124000" />
+      <workItem from="1625866834780" duration="3111000" />
+      <workItem from="1626610718831" duration="1107000" />
+      <workItem from="1626696400001" duration="21229000" />
+      <workItem from="1626803206872" duration="10033000" />
+      <workItem from="1626893644024" duration="9025000" />
+      <workItem from="1626944869050" duration="1180000" />
+      <workItem from="1626953875670" duration="4599000" />
+      <workItem from="1627147971031" duration="4095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/An_Aerospace_Company__AAC_$Academic_Research_Center.coverage" NAME="Academic Research Center Coverage Results" MODIFIED="1626953911062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Academic_Research_Center$admin_user.coverage" NAME="admin_user Coverage Results" MODIFIED="1600426168643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Academic_Research_Center$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1598622876232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Academic_Research_Center$Academic_Research_Center.coverage" NAME="Academic Research Center Coverage Results" MODIFIED="1620831057073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

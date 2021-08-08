@@ -1,0 +1,30 @@
+{% extends 'basicAdd.html' %}
+
+{% block body %}
+    <h1>Add/Update Wheel Assembly Subsystems </h1>
+    {% from "includes/_formhelpers.html" import render_field%}
+
+    <form method="POST", action="">
+
+        <div class="form-group">
+        {{ render_field(form.parts_required_for_the_assembly, class = "form-control") }}
+        </div>
+
+        <div class="form-group">
+        {{ render_field(form.the_number_on_hand, class = "form-control") }}
+        </div>
+
+
+        <div class="form-group">
+        {{ render_field(form.the_price_for_the_part, class = "form-control") }}
+        </div>
+
+
+        <div class="form-group">
+        {{ render_field(form.description_of_the_part, class = "form-control") }}
+        </div>
+
+
+        <P><input type="submit" class="btn btn-primary" value="Submit"></P>
+    </form>
+{% endblock %}

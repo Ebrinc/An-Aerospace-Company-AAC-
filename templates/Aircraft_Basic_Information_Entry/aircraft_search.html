@@ -1,0 +1,15 @@
+{% extends 'basicAdd.html' %}
+
+{% block body %}
+    <h1>Search Aeroplane </h1>
+    {% from "includes/_formhelpers.html" import render_field%}
+
+    <form method="POST", action="">
+        <div class="form-group">
+        {{ render_field(form.search_term, class = "form-control") }}
+        </div>
+
+
+        <P><input type="submit" class="btn btn-primary" value="Search"></P>
+    </form>
+{% endblock %}

@@ -1,0 +1,36 @@
+
+
+{% extends 'Wheel_Assembly_Subsystems/wheel.html' %}
+
+{% block body %}
+
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Aircraft Name</th>
+                                <th>First Assembly Date</th>
+                                <th>Chief Designer</th>
+                                <th>Description of Use</th>
+                                <th>Primary Customer list of parts suppliers</th>
+                                <th> List of Parts Suppliers</th>
+
+                            </tr>
+                            </thead>
+                            {% for aircraft in aircrafts %}
+                                <tfoot>
+                                <tr>
+                                    <td>{{ aircraft.ID }}</td>
+                                    <td>{{ aircraft.aircraft_name }}</td>
+                                    <td>{{ aircraft.chief_designer }}</td>
+                                    <td>{{ aircraft.description_of_use }}</td>
+                                    <td>{{ aircraft.the_primary_customer }}</td>
+                                    <td>{{ aircraft.list_of_parts_suppliers }}</td>
+                                    <td><a href="edit_article/{{ aircraft.ID }}" class="btn btn-default pull-right">Edit</a></td>
+                                    <td><a href="#" class="btn btn-danger pull-right">Delet</a></td>
+                                </tr>
+                            {% endfor %}
+                        </table>
+
+
+{% endblock %}
